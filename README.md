@@ -1,24 +1,32 @@
-# hello-world
+Some VueJS UI challanges has been solved/implemented to learn VueJS UI framework.
+Challange Sources:
+
+- https://vuejs-challenges.netlify.app/challenges.html
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
